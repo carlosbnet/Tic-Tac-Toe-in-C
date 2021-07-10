@@ -5,7 +5,7 @@ Este jogo foi inspirado no famoso "Jogo da Velha", o conceito principal foi aloc
 
 
 
-#### Descrição da funções criadas
+#### Descrição das funções criadas
 
 **int *newGame()** - Aloca uma matriz com na quantidade de COL x LIN, e retorna como um ponteiro.
 
